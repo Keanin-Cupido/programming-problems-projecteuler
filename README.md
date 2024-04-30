@@ -1,7 +1,7 @@
 ![image](https://github.com/Keanin-Cupido/programming-problems-projecteuler/assets/71013521/e70e70ca-886c-473c-93e8-b166ff0ce4da)
 
 # My Project Euler Solutions
-This repository contains solutions to various problems from the Project Euler website, implemented in (mostly) JavaScript programming languages.
+This repository contains solutions to various problems from the Project Euler website, implemented in (mostly) JavaScript and other programming languages.
 
 ## About Project Euler
 Project Euler is a collection of challenging mathematical/computer programming problems that require more than just mathematical insights to solve. The problems span a wide range of disciplines and difficulty levels, making them a great resource for practicing and improving one's problem-solving skills.
